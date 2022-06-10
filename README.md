@@ -1,3 +1,6 @@
+
+🔥 Fabio Nogueira do Carmo
+
 <div>
 <a href="https://github.com/fabionogueiracarmo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabionogueiracarmo&layout=compact&langs_count=7&theme=dracula"/>
@@ -13,3 +16,9 @@
  <img src="https://img.shields.io/badge/.Ruby on Rails-5C2D91?style=for-the-badge&logo=.rails&logoColor=white" />
   <img src="https://img.shields.io/badge/.Docker-add8ec?style=for-the-badge&logo=.docker&logoColor=black" />
  </div> 
+
+ <div> 
+ 
+  ![Snake animation](https://github.com/fabionogueiracarmo/fabionogueiracarmo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
