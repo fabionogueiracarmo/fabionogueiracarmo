@@ -16,8 +16,12 @@
  <img src="https://img.shields.io/badge/.Ruby on Rails-5C2D91?style=for-the-badge&logo=.rails&logoColor=white" />
   <img src="https://img.shields.io/badge/.Docker-add8ec?style=for-the-badge&logo=.docker&logoColor=black" />
  </div> 
+ 
+ 
 
- <div> 
+
+</div>
+
  
   ![Snake animation](https://github.com/fabionogueiracarmo/fabionogueiracarmo/blob/output/github-contribution-grid-snake.svg)
  
