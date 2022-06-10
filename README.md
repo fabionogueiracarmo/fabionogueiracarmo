@@ -20,8 +20,9 @@
  
 
 
-</div>
+<div> 
+
  
   ![Snake animation](https://github.com/fabionogueiracarmo/fabionogueiracarmo/blob/output/github-contribution-grid-snake.svg)
-
+ 
 </div>
